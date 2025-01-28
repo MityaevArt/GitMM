@@ -3,3 +3,4 @@ This is a new feature!
 This is a test feature
 Feature 2 is being developed
 Работаем над фичей 3
+Работаем над фичей 4
